@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Richard Ra"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is my blog using github. You can contact with sunra2k@gmail.com"
+  bio              : "This is my blog using github.\nYou can contact with sunra2k@gmail.com"
   location         : "Seoul in Korea"
   email            : "sunra2k@gmail.com"
   links:
