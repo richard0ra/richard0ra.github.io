@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Richard Ra"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "This is my blog using github. You can contact with sunra2k@gmail.com"
+  location         : "Seoul in Korea"
+  email            : "sunra2k@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
